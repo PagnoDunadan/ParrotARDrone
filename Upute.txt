@@ -1,0 +1,7 @@
+Potrebne su dvije internet konekcije, npr. s laptopom:
+1) ethernet na ruter
+2) wifi na drone
+
+Ugasit firewall na laptopu
+Server pokrenit s: node drone.js
+U android aplikaciji promjenit API_URL na ethernet ip od laptopa i buildat aplikaciju (mobitel mora bit spojen na istu mrezu kao laptop)
